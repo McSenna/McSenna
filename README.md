@@ -25,4 +25,4 @@
 
 ## 🐍 Contribution Snake
 
-https://raw.githubusercontent.com/McSenna/output/github-contribution-grid-snake.svg
+![Contribution Snake](https://raw.githubusercontent.com/McSenna/output/github-contribution-grid-snake.svg)
